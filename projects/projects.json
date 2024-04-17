@@ -1,0 +1,93 @@
+[
+ 
+  {
+    "name": "Cafe Management System",
+    "desc": "A simple cafe management system with different features like takeorder, vieworder in cafe.",
+    "image": "cafe",
+    "category": "mern",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "Ghumna Jaam",
+    "desc": "Ghumna Jaam is the Travel Management System where booking of different trips is available.",
+    "image": "ghumnaJaam",
+    "category": "mern",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "Everest Momo",
+    "desc": "It is just a User Interface that how the user feels while ordering the foods.",
+    "image": "everestmomo",
+    "category": "mern",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "Simple HTML CSS Projects",
+    "desc": "Project using HTML CSS and Javascript with beautiful Frontend Skills.",
+    "image": "htmlcssjs",
+    "category": "mern",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "Tailwind Practice Projects",
+    "desc": "Projects with the uses of Tailwind CSS with beautiful User Interface and Experience.",
+    "image": "tailwind",
+    "category": "lamp",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "JavaScript Projects",
+    "desc": "This Projects is specially build to showcase all major javaScript functions. All my javaScript based projects are in it.",
+    "image": "jspractice",
+    "category": "basicweb",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "Web UI Clones",
+    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
+    "image": "webui",
+    "category": "mern",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "protfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "Bootstrap Portfolio",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "image": "bootstrapp",
+    "category": "basicweb",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "Bootstrap Template",
+    "desc": "Basic website template built using HTML and Bootstrap.",
+    "image": "boot",
+    "category": "basicweb",
+    "links": {
+      "view": "#"
+    }
+  }
+]
